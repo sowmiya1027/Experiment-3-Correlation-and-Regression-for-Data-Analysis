@@ -81,10 +81,12 @@ https://colab.research.google.com/drive/1Tyf5bgjFIoBndw1uAR_qThPcYqpacr_F?usp=sh
 
 
 # Output
+```
 Enter x values (space separated): 45 56 34 34 44 25 53 76 63 78
 Enter y values (space separated): 56 67 34 42 87 65 42 47 35 64
 The Correlation coefficient is -0.028
 The Regression line Y on X is ::: y = 53.900 + -0.027 (x-50.800)
+```
 <img width="704" height="533" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/45a4b312-d0e9-4f74-a0d9-498a35c29f89" />
 
 
